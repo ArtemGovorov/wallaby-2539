@@ -1,0 +1,46 @@
+{
+  "name": "wallaby-2539",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtemGovorov/wallaby-2539.git"
+  },
+  "author": "Artem Govorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtemGovorov/wallaby-2539/issues"
+  },
+  "homepage": "https://github.com/ArtemGovorov/wallaby-2539#readme",
+  "dependencies": {
+    "query-string": "6.12.1",
+    "lodash": "4.17.15"
+  },
+  "devDependencies": {
+    "@types/detox": "14.x.x",
+    "@types/hoist-non-react-statics": "^3.3.1",
+    "@types/jest": "^26.0.5",
+    "@types/lodash": "^4.14.155",
+    "@types/react-native": "^0.62.0",
+    "@types/react-test-renderer": "16.9.2",
+    "husky": "^1.2.1",
+    "metro-react-native-babel-preset": "^0.58.0",
+    "react-test-renderer": "16.11.0",
+    "eslint": "^7.4.0",
+    "eslint-config-wix": "^2.0.0",
+    "eslint-plugin-no-only-tests": "^2.4.0",
+    "eslint-plugin-react-native": "^2.0.0",
+    "eslint-plugin-uilib": "^1.0.3",
+    "jest": "^26.0.0",
+    "jest-circus": "^26.0.0",
+    "jest-cli": "^26.4.2",
+    "jest-extended": "^0.11.5",
+    "jest-tc-reporter": "^1.0.0",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.8.3"
+  }
+}
